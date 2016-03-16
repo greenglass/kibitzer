@@ -1,4 +1,4 @@
-package rsclient.client.connection;
+package kibitzer.client.connection;
 
 public class ClientConnection {
 

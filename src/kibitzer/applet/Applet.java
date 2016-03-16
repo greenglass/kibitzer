@@ -1,4 +1,4 @@
-package rsclient.applet;
+package kibitzer.applet;
 
 public class Applet {
 

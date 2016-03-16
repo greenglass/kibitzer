@@ -1,4 +1,4 @@
-package rsclient.client;
+package kibitzer.client;
 
 import java.applet.AppletContext;
 import java.applet.AppletStub;
